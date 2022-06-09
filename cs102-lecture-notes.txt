@@ -3,3 +3,6 @@ git push
 git add 
 git commit
 git status
+MY Name is rohit khanna 
+i study in IIT goa 
+
