@@ -3,6 +3,4 @@ git push
 git add 
 git commit
 git status
-MY Name is rohit khanna 
-i study in IIT goa 
-
+hello my name is rohit khanna and i study in iit goa.
